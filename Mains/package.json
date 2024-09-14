@@ -1,0 +1,16 @@
+{
+  "name": "final",
+  "version": "1.0.0",
+  "description": "its all of my coding talent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Isumi,Erfan,Arshia",
+  "license": "ISC",
+  "dependencies": {
+    "animate": "^1.0.0",
+    "animate.css": "^4.1.1",
+    "swiper": "^11.1.14"
+  }
+}
